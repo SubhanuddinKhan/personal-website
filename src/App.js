@@ -1,23 +1,14 @@
 import logo from './logo.svg';
-import './App.css';
+// import './App.css';
+import Header from './Components/Header';
+import Home from './Components/Home';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className="white-version home-sticky spybody" data-spy="scroll" data-target=".navbar-example2" data-offset="150">
+    {/* <h1>App File</h1> */}
+    <Header />
+    <Home />
     </div>
   );
 }
