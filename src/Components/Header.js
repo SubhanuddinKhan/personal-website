@@ -17,6 +17,8 @@ function Header() {
                 <ul className="primary-menu nav nav-pills">
                     <li className="nav-item"><a className="nav-link smoth-animation-two active" href="#home"><i
                                 data-feather="home"></i> Home</a></li>
+                                <li className="nav-item"><a className="nav-link smoth-animation-two active" href="#about"><i
+                                data-feather="home"></i> About Me</a></li>
                     <li className="nav-item"><a className="nav-link smoth-animation-two" href="#features"> <i
                                 data-feather="briefcase"></i>Speciality</a></li>
                     <li className="nav-item"><a className="nav-link smoth-animation-two" href="#portfolio"><i
@@ -91,6 +93,8 @@ function Header() {
             <div className="content">
                 <ul className="primary-menu nav nav-pills">
                     <li className="nav-item"><a className="nav-link smoth-animation-two active" href="#home">Home</a></li>
+                    <li className="nav-item"><a className="nav-link smoth-animation-two active" href="#about">About Me</a></li>
+
                     <li className="nav-item"><a className="nav-link smoth-animation-two" href="#features">Speciality</a></li>
                     <li className="nav-item"><a className="nav-link smoth-animation-two" href="#portfolio">Portfolio</a></li>
                     <li className="nav-item"><a className="nav-link smoth-animation-two" href="#resume">Resume</a></li>
