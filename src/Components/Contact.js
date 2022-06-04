@@ -25,7 +25,7 @@ function Contact() {
                             Bootstrap | JSON</span>
                     </div>
                     <div className="description">
-                        <p>Web devlopment is my passion passion You Dream I Design
+                        <p>Web devlopment is my passion You Dream I Design
                         </p>
                         <span className="phone">Phone: <a href="tel:+923139157019">+92 313 9157019</a></span>
                         <span className="mail">Email: <a href="mailto:subhanuddinkhan@gmail.com">subhanuddinkhan@gmail.com</a></span>
